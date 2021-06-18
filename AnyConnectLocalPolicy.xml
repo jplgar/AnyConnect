@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AnyConnectLocalPolicy acversion="4.9.06037">
+  <FipsMode>false</FipsMode>
+  <BypassDownloader>true</BypassDownloader>
+  <RestrictWebLaunch>false</RestrictWebLaunch>
+  <StrictCertificateTrust>false</StrictCertificateTrust>
+  <RestrictTunnelProtocols>false</RestrictTunnelProtocols>
+  <RestrictPreferenceCaching>false</RestrictPreferenceCaching>
+  <ExcludePemFileCertStore>false</ExcludePemFileCertStore>
+  <ExcludeWinNativeCertStore>false</ExcludeWinNativeCertStore>
+  <ExcludeMacNativeCertStore>false</ExcludeMacNativeCertStore>
+  <ExcludeFirefoxNSSCertStore>false</ExcludeFirefoxNSSCertStore>
+  <UpdatePolicy>
+    <AllowSoftwareUpdatesFromAnyServer>true</AllowSoftwareUpdatesFromAnyServer>
+    <AllowVPNProfileUpdatesFromAnyServer>true</AllowVPNProfileUpdatesFromAnyServer>
+    <AllowServiceProfileUpdatesFromAnyServer>true</AllowServiceProfileUpdatesFromAnyServer>
+  </UpdatePolicy>
+</AnyConnectLocalPolicy>
